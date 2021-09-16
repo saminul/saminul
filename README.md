@@ -26,7 +26,7 @@ Hi! My name is Saminul. Thank You for taking the time to view my GitHub Profile 
 <br>
 <h2> About Me</h2>
 
-- 🔭 I’m currently working on Radeon Software @ AMD
+- 🔭 Ex - AMD Software Development Intern
 
 - 🌱 I’m currently learning Artificial Intelligence
 
